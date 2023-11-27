@@ -118,3 +118,9 @@ Finally all the information is mapped into the CharacterAppearance.java class an
      characterAppearance.setFirstApppearance(dateFirstAppearance);
      return characterAppearance;
 ```
+## More Info
+More information about Rick and Morty's REST API (https://rickandmortyapi.com/documentation/#rest) 
+
+## Resignations
+This is an initial example and aims to demonstrate how to implement a Rest API. Potentially, there are other ways to approach it and alternatives could be considered.
+It's likely that the repository isn't actively maintained.
